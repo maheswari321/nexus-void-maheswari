@@ -76,7 +76,7 @@ const HomePage = () => {
           variants={itemVariants}
           className="flex flex-wrap justify-center gap-3 mb-10"
         >
-          {["Creative Designer", "Developer", "Problem Solver"].map((role, index) => (
+          {["Graphic Designer", "Frontent Developer"].map((role, index) => (
             <motion.span
               key={role}
               className="px-4 py-2 rounded-lg glass-card text-sm font-medium text-foreground"

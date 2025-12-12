@@ -11,8 +11,6 @@ import HomePage from "@/pages/HomePage";
 import AboutPage from "@/pages/AboutPage";
 import SkillsPage from "@/pages/SkillsPage";
 import ProjectsPage from "@/pages/ProjectsPage";
-import ArticlesPage from "@/pages/ArticlesPage";
-import ProfilesPage from "@/pages/ProfilesPage";
 import ContactPage from "@/pages/ContactPage";
 import ResumePage from "@/pages/ResumePage";
 import NotFound from "@/pages/NotFound";
